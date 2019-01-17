@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: forestgreen;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: burlywood;
+    color: white;
+  } 
+  .open{
+    display: none;
+    background-image: #A4DDED;
+  }
+  .extra{
+    display: none;
+  } 
+  .agree{
+    display: none;
+  } 
+  .neuro{
+    display: none;
+  } 
+  .conscient{
+    display: none;
+  } 
+  .intra {
+    display: none;
+  }
+  #about{
+    
+    text-decoration: #333;
+  }
+  
